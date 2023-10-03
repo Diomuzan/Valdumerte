@@ -1,0 +1,15 @@
+C:\Projects\Valdumerte\obj\Debug\net8.0\Valdumerte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Valdumerte\obj\Debug\net8.0\Valdumerte.AssemblyInfoInputs.cache
+C:\Projects\Valdumerte\obj\Debug\net8.0\Valdumerte.AssemblyInfo.cs
+C:\Projects\Valdumerte\obj\Debug\net8.0\Valdumerte.csproj.CoreCompileInputs.cache
+C:\Projects\Valdumerte\obj\Debug\net8.0\Valdumerte.sourcelink.json
+C:\Projects\Valdumerte\bin\Debug\net8.0\Valdumerte.exe
+C:\Projects\Valdumerte\bin\Debug\net8.0\Valdumerte.deps.json
+C:\Projects\Valdumerte\bin\Debug\net8.0\Valdumerte.runtimeconfig.json
+C:\Projects\Valdumerte\bin\Debug\net8.0\Valdumerte.dll
+C:\Projects\Valdumerte\bin\Debug\net8.0\Valdumerte.pdb
+C:\Projects\Valdumerte\obj\Debug\net8.0\Valdumerte.dll
+C:\Projects\Valdumerte\obj\Debug\net8.0\refint\Valdumerte.dll
+C:\Projects\Valdumerte\obj\Debug\net8.0\Valdumerte.pdb
+C:\Projects\Valdumerte\obj\Debug\net8.0\Valdumerte.genruntimeconfig.cache
+C:\Projects\Valdumerte\obj\Debug\net8.0\ref\Valdumerte.dll

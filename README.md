@@ -1,2 +1,2 @@
-# GitExercise
-This is a website which I made for the purpose of exersizing with GitHub. The website is lastly written in HTML and CSS.
+# Valdumerte
+This is a C# and .NET console app which I made for the purpose of working on assignments in FreeCodeCamp and Microsoft Learn.
