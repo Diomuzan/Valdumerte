@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Valdumerte")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40b07287b5cc5719e7a5ed85473a90f4fb39d877")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9fe9208031493e8b214fc28c406c60cbb1c69760")]
 [assembly: System.Reflection.AssemblyProductAttribute("Valdumerte")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Valdumerte")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
