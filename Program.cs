@@ -38,7 +38,7 @@ Console.WriteLine(value3);
 int value4 = Convert.ToInt32(1.5m); 
 Console.WriteLine(value4 + "\n");
 
-string value5 = "bad";
+string value = "bad";
 int result1 = 0;
 if (int.TryParse(value, out result)) {
     Console.WriteLine($"Measurement: {result}");
@@ -46,3 +46,7 @@ if (int.TryParse(value, out result)) {
     Console.WriteLine("Unable to report the measurement.");
 }
 Console.WriteLine($"Measurement (w/ offset): {50 + result}");
+
+string[] values = { "12.3", "45", "ABC", "11", "DEF" };
+
+
