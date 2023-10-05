@@ -1,4 +1,6 @@
-﻿// int first = 2;
+﻿using System;
+
+// int first = 2;
 // string second = "4";
 // string result = first + second;
 // Console.WriteLine(result + "\n");
